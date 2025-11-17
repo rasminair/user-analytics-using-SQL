@@ -1,4 +1,4 @@
-# Instagram user analytics using SQL
+# Instagram user analytics project using SQL
 Instagram remains one of the world’s most influential social platforms, generating vast amounts of user interaction every second. This SQL-based analysis project explores those interactions to uncover meaningful patterns in user engagement and behavior. By decoding how users interact with content and with each other, these insights can support:
 
 <ul><li>Product teams in designing features that improve user experience</li>
